@@ -1,7 +1,5 @@
 <div align="center">
 
-//img src="https://github.com/Ahmed-Reda-SILO.png" width="150" alt="Dr. Ahmed Reda Mohamed" style="border-radius:50%;" />
-
 # Dr. Ahmed Reda Mohamed
 
 ### Analog/Mixed-Signal IC Designer · AI Hardware Researcher · EDA Innovator
