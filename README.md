@@ -139,7 +139,7 @@ I am interested in collaborations that connect **silicon innovation with intelli
 - **Email:** [ahmed.mohamed@kfupm.edu.sa](mailto:ahmed.mohamed@kfupm.edu.sa)
 - **Academic email:** [ahmed.reda@alumni.sjtu.edu.cn](mailto:ahmed.reda@alumni.sjtu.edu.cn)
 - **Affiliation:** IRC-CSS, King Fahd University of Petroleum and Minerals, Saudi Arabia
-- **Profiles:**[[Google Scholar](https://scholar.google.com/citations?hl=en&user=c1tJxssAAAAJ&view_op=list_works&sortby=pubdate)] and [[https://www.linkedin.com/in/ahmed-reda-69468a268/]]
+- **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=c1tJxssAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ahmed-reda-69468a268/)
 
 ---
 
