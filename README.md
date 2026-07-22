@@ -1,25 +1,29 @@
 <div align="center">
 
+<img src="https://github.com/Ahmed-Reda-SILO.png" width="150" alt="Dr. Ahmed Reda Mohamed" style="border-radius:50%;" />
+
 # Dr. Ahmed Reda Mohamed
 
-### Analog/Mixed-Signal IC Designer · AI-Hardware Researcher · EDA Innovator
+### Analog/Mixed-Signal IC Designer · AI Hardware Researcher · EDA Innovator
 
 *Advancing energy-efficient intelligent systems—from transistor-level circuits to connected healthcare platforms.*
 
 [![IEEE](https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge&logo=ieee)](https://www.ieee.org/)
 [![Publications](https://img.shields.io/badge/Publications-29%2B-1F6FEB?style=for-the-badge)](#selected-publications)
 [![Patents](https://img.shields.io/badge/Patents-7-7B2CBF?style=for-the-badge)](#innovation--patents)
-[![Funded Projects](https://img.shields.io/badge/Funded_Projects-3-0B8F78?style=for-the-badge)](#featured-research-projects)
+[![Funded Projects](https://img.shields.io/badge/Funded_Projects-3-0B8F78?style=for-the-badge)](#funded--featured-research-projects)
 [![Major Awards](https://img.shields.io/badge/Major_Awards-2-D4A017?style=for-the-badge)](#selected-awards--recognition)
 [![Location](https://img.shields.io/badge/Location-Saudi_Arabia-00843D?style=for-the-badge)](#connect)
 
-[About](#about-me) · [Expertise](#research-expertise) · [Projects](#featured-research-projects) · [Publications](#selected-publications) · [Teaching](#teaching--supervision) · [Connect](#connect)
+**Postdoctoral Fellow, IRC-CSS · King Fahd University of Petroleum and Minerals**
+
+[About](#about-me) · [Awards](#selected-awards--recognition) · [Projects](#funded--featured-research-projects) · [Publications](#selected-publications) · [Teaching](#teaching--supervision) · [Connect](#connect)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍🔬 About Me
 
 I am an interdisciplinary researcher and academic working at the intersection of **analog/mixed-signal integrated circuits, artificial-intelligence hardware, electronic design automation, embedded systems, IoT, and intelligent healthcare technologies**.
 
@@ -27,28 +31,22 @@ I received my Ph.D. in **Electronic Science and Technology** from **Shanghai Jia
 
 My work connects fundamental circuit innovation with practical system development—from nano-power CMOS circuits and AI accelerators to RF energy harvesting, automated analog-design workflows, and wearable biomedical platforms.
 
-## At a Glance
+## 📊 Academic Impact at a Glance
 
-| | Highlight |
+| 📚 Research | 💡 Innovation | 🏆 Recognition |
+|:---:|:---:|:---:|
+| **29+ publications** | **7 patents** | **2 major awards** |
+| **3 funded projects** | **5 graduate researchers** | **International experience** |
+| INCS2610 · INCS2613 · INCS2501 | 3 M.Sc. · 2 Ph.D. | Saudi Arabia · China · Egypt · USA |
+
+## 🏆 Selected Awards & Recognition
+
+| Award | Recognition |
 |---|---|
-| **Research output** | 29+ peer-reviewed journal and conference publications |
-| **Innovation** | Seven patents in analog ICs, RF energy harvesting, and design automation |
-| **Major awards** | IEEE ISSCC 2022 SRP Poster Award; KFUPM Postdoctoral Excellence Award—Runner-up with Distinction, 2025–2026 |
-| **Funded research leadership** | Three competitive IRC-CSS/KFUPM projects: INCS2613, INCS2610, and INCS2501 |
-| **Supervision** | Five graduate researchers: three M.Sc. and two Ph.D. students |
-| **International experience** | Saudi Arabia, China, Egypt, and remote US semiconductor development |
+| 🥇 **IEEE ISSCC 2022 Student Research Preview Poster Award** | International recognition at the IEEE International Solid-State Circuits Conference for promising integrated-circuit research. |
+| 🌟 **KFUPM Postdoctoral Excellence Award** | **Runner-up with Distinction, 2025–2026**, recognizing outstanding research achievement, impact, and academic excellence. |
 
-## Selected Awards & Recognition
-
-### IEEE ISSCC 2022 Student Research Preview Poster Award
-
-International recognition at the IEEE International Solid-State Circuits Conference for promising research in integrated-circuit design.
-
-### KFUPM Postdoctoral Excellence Award — Runner-up with Distinction, 2025–2026
-
-Institutional recognition of outstanding postdoctoral research achievement, impact, and academic excellence at KFUPM.
-
-## Research Expertise
+## 🔬 Research Expertise
 
 - Low-power analog and mixed-signal CMOS integrated circuits
 - Biomedical and biosignal-acquisition analog front ends
@@ -58,31 +56,31 @@ Institutional recognition of outstanding postdoctoral research achievement, impa
 - Embedded hardware, wireless sensing, and wearable healthcare systems
 - CMOS current references, sensor interfaces, filters, and power-management circuits
 
-## Featured Research Projects
+## 🚀 Funded & Featured Research Projects
 
-### INCS2610 · HEMOX — Multichannel Hemodynamic Monitoring
+### 🫀 INCS2610 · HEMOX — Multichannel Hemodynamic Monitoring
 
 **Project No. INCS2610 · 2026–2027**
 
 A low-power wearable IoT platform for synchronized, multichannel hemodynamic sensing. The project integrates dual-wavelength optical acquisition, wireless data streaming, signal-quality assessment, and traceable physiological-signal analysis to support next-generation connected healthcare research.
 
-### INCS2613 · Ultra-Low-Power Analog Front End for Wireless IoT Monitoring
+### 📡 INCS2613 · Ultra-Low-Power Analog Front End for Wireless IoT Monitoring
 
 **Project No. INCS2613 · 2026–2027**
 
 Development of an energy-efficient integrated analog front end for reliable sensing in constrained wireless IoT nodes, with emphasis on circuit-level power reduction, signal integrity, and practical prototype validation.
 
-### INCS2501 · Integrated RF–DC Rectifier for Energy Harvesting
+### ⚡ INCS2501 · Integrated RF–DC Rectifier for Energy Harvesting
 
 **Project No. INCS2501 · 2025–2026**
 
 High-efficiency CMOS RF energy-harvesting architectures for self-powered IoT and wireless sensor nodes, including dual-dynamic self-biasing, three-phase conversion, and generalized multiphase multistage rectifiers.
 
-### SILO — Simulator-in-the-Loop Analog/RFIC Design
+### 🤖 SILO — Simulator-in-the-Loop Analog/RFIC Design
 
 A Spectre-driven framework that links optimization, process variability, verification, and design-rule-aware validation to improve the robustness and reproducibility of analog/RF integrated-circuit sizing.
 
-## Selected Publications
+## 📚 Selected Publications
 
 - **A Generic M-Phase, N-Stage Folded Cross-Coupled CMOS Rectifier Architecture for Low-Power RF Energy Harvesting**, *Results in Engineering*, 2026.
 - **A High-Efficiency Three-Phase CMOS RF–DC Rectifier for Low-Power IoT Applications**, *Computers & Electrical Engineering*, 2026.
@@ -93,7 +91,7 @@ A Spectre-driven framework that links optimization, process variability, verific
 
 > A complete publication list is available in my [academic CV](CV_Ahmed_Reda.pdf).
 
-## Innovation & Patents
+## 💡 Innovation & Patents
 
 My seven patents span:
 
@@ -104,7 +102,7 @@ My seven patents span:
 - Three-phase and multiphase RF energy harvesting
 - Automated Spectre-integrated analog-circuit optimization and verification
 
-## Teaching & Supervision
+## 🎓 Teaching & Supervision
 
 I have taught and contributed to university courses covering:
 
@@ -118,7 +116,7 @@ I have taught and contributed to university courses covering:
 
 I have supervised **five graduate students**—three M.Sc. and two Ph.D. researchers—in analog/mixed-signal IC design and biomedical systems, contributing to research publications and practical design outcomes.
 
-## Technical Toolkit
+## 🛠️ Technical Toolkit
 
 | Area | Tools and Technologies |
 |---|---|
@@ -128,7 +126,7 @@ I have supervised **five graduate students**—three M.Sc. and two Ph.D. researc
 | **Embedded and prototyping** | FPGA, microcontrollers, Arduino, ESP platforms, PCB design |
 | **Electronic design** | Altium, OrCAD, Proteus, L-Edit, CircuitMaker |
 
-## Current Research Direction
+## 🌍 Current Research Direction
 
 I am interested in collaborations that connect **silicon innovation with intelligent, energy-efficient systems**, particularly in:
 
@@ -138,7 +136,7 @@ I am interested in collaborations that connect **silicon innovation with intelli
 - Self-powered IoT and RF energy harvesting
 - Wearable, multichannel healthcare technologies
 
-## Connect
+## 🤝 Connect
 
 - **Email:** [ahmed.mohamed@kfupm.edu.sa](mailto:ahmed.mohamed@kfupm.edu.sa)
 - **Academic email:** [ahmed.reda@alumni.sjtu.edu.cn](mailto:ahmed.reda@alumni.sjtu.edu.cn)
@@ -152,5 +150,7 @@ I am interested in collaborations that connect **silicon innovation with intelli
 ### Open to academic collaboration, interdisciplinary research, and impactful innovation
 
 *Analog intelligence. Automated design. Connected healthcare.*
+
+![Profile views](https://komarev.com/ghpvc/?username=Ahmed-Reda-SILO&color=1F6FEB&style=flat-square&label=Profile+views)
 
 </div>
