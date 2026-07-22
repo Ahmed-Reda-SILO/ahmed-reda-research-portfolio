@@ -15,8 +15,7 @@
 
 **Postdoctoral Fellow, IRC-CSS · King Fahd University of Petroleum and Minerals**
 
-[About](#about-me) · [Awards](#selected-awards--recognition) · [Projects](#funded--featured-research-projects) · [Publications](#selected-publications) · [Teaching](#teaching--supervision) · [Connect](#connect)
-
+[About](#about) · [Awards](#awards) · [Projects](#projects) · [Publications](#publications) · [Teaching](#teaching) · [Connect](#connect)
 </div>
 
 ---
