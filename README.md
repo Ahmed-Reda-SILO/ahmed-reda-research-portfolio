@@ -132,8 +132,7 @@ An automated **Cadence Spectre-integrated design framework** combining circuit o
 - **A Power-Efficient and Re-Configurable Analog Artificial Neural Network Classifier**, *Microelectronics Journal*, 2021.
 - **A Generic Nano-Watt Power Fully Tunable 1-D Gaussian Kernel Circuit for Artificial Neural Network**, *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2020.
 
-> A complete publication list is available in my [academic CV](CV_Ahmed_Reda.pdf).
-
+> A complete publication list is available in my [academic CV](https://raw.githubusercontent.com/Ahmed-Reda-SILO/ahmed-reda-research-portfolio/main/CV_Ahmed_Reda.pdf).
 ---
 
 ## 💡 Innovation & Patent Disclosures
